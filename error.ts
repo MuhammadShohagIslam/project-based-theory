@@ -17,6 +17,10 @@ Error that we can know will be happen
 
 */
 /*
+  *** we should always give error message with generic type on production level
+    for that user can see real problem about this error, which solve hacking issue
+  *** development mode, does not matter. above issue
+  
   Global error handler control by the Programmatical, Operational 
   which solve about this error
 
